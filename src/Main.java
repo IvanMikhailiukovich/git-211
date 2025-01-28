@@ -7,5 +7,7 @@ public class Main {
         System.out.println("вписать новые строки кода, которые не затрагивают старые;");
         System.out.println("-----------------------------");
         System.out.println("что-то новое");
+        System.out.println("что-то новое");
+        System.out.println("что-то новое");
     }
 }

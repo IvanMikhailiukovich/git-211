@@ -9,5 +9,7 @@ public class Main {
         System.out.println("что-то новое");
         System.out.println("что-то новое");
         System.out.println("что-то новое");
+        System.out.println("-----------------------------");
+        System.out.println("что-то новое neeeewwwww");
     }
 }
